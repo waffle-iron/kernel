@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AxFab/kernel.png?label=ready&title=Ready)](https://waffle.io/AxFab/kernel)
 # Kernel
 
  This is the kernel of SmokeOS. This project is an hobbyist kernel start I
